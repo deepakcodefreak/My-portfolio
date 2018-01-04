@@ -1,0 +1,30 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+header{
+    
+    float:left;
+    padding:0% 41%;
+    font-size: 26px;
+    color:#686c68;
+    font-family: "comic sans ms";
+}
+
+#list{
+    padding-top:
+    padding-left: 
+    list-style:georgian;
+font-family: "comic sans ms";
+    font-size: 24px;
+}
+
+article{
+    
+    padding:0px 100px;
+padding-top: 300px;
+    text-align: justify;
+    
+}

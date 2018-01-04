@@ -1,0 +1,51 @@
+#portfolio{
+    color:white;
+    margin-right:500px;
+    font-weight: bolder;
+    font-size: 26px;
+    
+}
+
+a{
+    text-decoration: none;
+    color:white;
+    
+     }
+*{
+    margin:0px;
+    list-style-type:none;
+    padding:0px;
+}
+
+.page{
+    font-family: "comic sans ms";
+}
+
+#heading{
+    
+    float:left;
+    padding: 0px 530px;
+    font-size: 26px;
+    color:#686c68;
+}
+
+#para1{
+    
+    float:left;
+    padding: 2% 20%;
+    color:#adafac;
+    font-size: 24px;
+}
+
+article{
+    text-align: justify;
+    text-justify: inter-word;
+ margin: 0px 20px;  
+    padding: 0% 20%;
+    font-size: 20px;
+        
+}
+
+.clear{
+    clear:both;
+}

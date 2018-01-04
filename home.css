@@ -1,0 +1,45 @@
+*{
+    margin:0px;
+    list-style-type:none;
+    padding:0px;
+}
+
+
+.main{
+    width:70%;
+    font-family: "comic sans ms";
+    font-size: 20px;
+margin:0px 40px;
+    
+}
+   
+
+.button{
+    color:white;
+    background-color: #1b850d;
+    width:180px;
+    padding: 30px;
+    text-align: center;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    
+}
+
+aside{
+    margin:5% 13%;
+}
+
+footer{
+    text-align: center;
+}
+
+img{
+    margin-right: 20px;
+    
+}
+
+    
+.text{
+    text-align: justify;
+    text-justify:inter-word;
+}

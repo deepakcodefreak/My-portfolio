@@ -1,0 +1,25 @@
+.navigation{
+    float:left;
+    width:100%;
+background-color: #1b850d;
+    margin-bottom: 8%;
+     
+}
+
+.navigation ul li{
+    float:left;
+    padding:2%;
+    font-family: "comic sans ms";
+   text-decoration-color:white;
+    list-style: none;
+    }
+a{
+    color:white;
+    text-decoration: none;
+}
+
+#portfolio{
+    color:white;
+    margin-right:500px;
+    font-weight: bolder;
+    font-size: 26px;
